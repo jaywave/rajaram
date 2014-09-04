@@ -3,8 +3,7 @@
 //  ram
 //
 //  Created by Saranya on 9/4/14.
-//  Copyright (c) 2014 Ramesh. All rights reserved.
-//
+//  Copyright (c) 2014 Ramesh. All rights reserved.=//
 
 #import "ViewController.h"
 
